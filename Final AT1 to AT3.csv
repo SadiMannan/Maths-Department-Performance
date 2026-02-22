@@ -1,0 +1,654 @@
+﻿ArborID,studentFirstName,studentLastName,Sex,SEN Support,Disadvantaged,PP,Class,teacherID,AT1,AT2,AT3,teacherName,teacherLastName,Year,SEN
+6145,Trae,Nelson-Smith,Male,SEN Support,1,1,10R/Ma,9,18.32999992,53,13,Ruhina,Cockar,10,Yes
+6165,Zainab,Al-Hassani,Female,NULL,1,1,10O/Ma,1,60,95,58,Sadi,Mannan,10,No
+6168,Emiliia,Martynchuk,Female,NULL,0,0,10A/Ma,2,65,47,36,Swapna,Agarwal,10,No
+6170,Mahmoud,Mahmoud,Male,NULL,1,1,10R/Ma,9,18.32999992,26,19,Ruhina,Cockar,10,No
+6171,Muhammed,Chowdhury,Male,NULL,1,1,10B/Ma,5,0,41,6,Nadir,Jebari,10,No
+6173,Jawad,Miah,Male,NULL,1,1,10E/Ma,7,11.67000008,16,5,Noah,Taylor,10,No
+6175,Zakaria,Amma,Male,NULL,0,0,10I/Ma,3,65,67,77,David,Madden,10,No
+6181,Sarah,Ouraby,Female,NULL,1,1,10O/Ma,1,41.66999817,38,23,Sadi,Mannan,10,No
+6185,Latifah,Serroukh,Female,NULL,1,1,10I/Ma,3,83.33000183,83,81,David,Madden,10,No
+6188,Maria,Al Obaidi,Female,NULL,1,1,10I/Ma,3,58.33000183,41,54,David,Madden,10,No
+6191,Mais,El-Zarif,Female,NULL,0,0,10E/Ma,7,16.67000008,35,28,Noah,Taylor,10,No
+6192,Isah,Giraldo Khan,Male,NULL,1,1,10A/Ma,2,0,39,8,Swapna,Agarwal,10,No
+6194,Suela,Gashi,Female,NULL,0,0,10W/Ma,4,15,10,25,Youssef,Chabibi,10,No
+6198,Ledri,Shabani,Male,SEN Support,1,1,10B/Ma,5,0,0,10,Nadir,Jebari,10,Yes
+6199,Dion,Xhafa,Male,NULL,0,0,10A/Ma,2,60,64,59,Swapna,Agarwal,10,No
+6202,Tomorr,Myftiu,Male,NULL,0,0,10H/Ma,5,51.66999817,62,58,Nadir,Jebari,10,No
+6205,Liyan,Rasheed,Female,SEN Support,1,1,10R/Ma,9,16.67000008,17,23,Ruhina,Cockar,10,Yes
+6206,Melissa,Hanifer,Female,SEN Support,0,0,10R/Ma,9,1.669999957,33,6,Ruhina,Cockar,10,Yes
+6209,Shahana,Abdullah,Female,NULL,0,0,10I/Ma,3,5,8,10,David,Madden,10,No
+6210,Hussein,Nahle,Male,NULL,0,0,10A/Ma,2,55,84,41,Swapna,Agarwal,10,No
+6215,Leena,Khan,Female,NULL,0,0,10H/Ma,5,56.66999817,60,51,Nadir,Jebari,10,No
+6217,Layan,El-Khalil,Female,NULL,0,0,10H/Ma,5,45,54,16,Nadir,Jebari,10,No
+6218,Alissia,Isufi,Female,NULL,0,0,10R/Ma,9,3.329999924,21,7,Ruhina,Cockar,10,No
+6226,Zara,Sindi,Female,NULL,0,0,10A/Ma,2,65,53,62,Swapna,Agarwal,10,No
+6229,Nour,Abou Saleh,Female,NULL,1,1,10I/Ma,3,65,54,33,David,Madden,10,No
+6230,Amar,Ahmed,Male,No Special Educational Need,1,1,10O/Ma,1,48.33000183,47,47,Sadi,Mannan,10,No
+6231,Jayden,Nguyen,Male,NULL,0,0,10O/Ma,1,23.32999992,55,41,Sadi,Mannan,10,No
+6233,Mohamed,Abadi,Male,SEN Support,0,0,10W/Ma,4,53.33000183,49,54,Youssef,Chabibi,10,Yes
+6234,Ali,Hashim,Male,SEN Support,1,1,10O/Ma,1,73.33000183,79,62,Sadi,Mannan,10,Yes
+6235,Ranudi,Warnapura,Female,NULL,0,0,10H/Ma,5,65,70,68,Nadir,Jebari,10,No
+6240,Roqayah,Al-Memar,Female,NULL,1,1,10I/Ma,3,60,78,49,David,Madden,10,No
+6242,Dimitris,Nerantzis,Male,NULL,0,0,10A/Ma,2,48.33000183,47,36,Swapna,Agarwal,10,No
+6243,Jan,Szewczyk,Male,SEN Support,0,0,10A/Ma,2,98.33000183,100,91,Swapna,Agarwal,10,Yes
+6246,Aleena,Ali,Female,NULL,0,0,10B/Ma,5,0,34,7,Nadir,Jebari,10,No
+6247,Ikram,Mechakou,Female,Monitoring,1,1,10E/Ma,7,5,38,25,Noah,Taylor,10,Yes
+6248,Ibrahim,Ahmed,Male,NULL,1,1,10O/Ma,1,25,37,25,Sadi,Mannan,10,No
+6249,Eliza,Salji,Female,NULL,1,1,10R/Ma,9,28.32999992,63,40,Ruhina,Cockar,10,No
+6252,Iyana,Allen,Female,NULL,1,1,10I/Ma,3,21.67000008,61,26,David,Madden,10,No
+6253,Amina,Bibi,Female,NULL,0,0,10R/Ma,9,21.67000008,32,16,Ruhina,Cockar,10,No
+6254,Narin,Mohammad,Female,NULL,1,1,10E/Ma,7,35,40,42,Noah,Taylor,10,No
+6255,Sanaa,Mohammed,Female,NULL,0,0,10H/Ma,5,53.33000183,50,35,Nadir,Jebari,10,No
+6256,Ahmed,Bakr,Male,NULL,1,1,10I/Ma,3,48.33000183,48,21,David,Madden,10,No
+6257,Fatima,El Idrissi Amrani,Female,SEN Support,0,0,10R/Ma,9,40,51,37,Ruhina,Cockar,10,Yes
+6258,Adam,Eldamati,Male,NULL,0,0,10W/Ma,4,30,35,41,Youssef,Chabibi,10,No
+6259,Raisa,Telechii,Female,NULL,1,1,10B/Ma,5,21.67000008,7,16,Nadir,Jebari,10,No
+6261,Nailah,Latif,Female,NULL,0,0,10H/Ma,5,45,71,43,Nadir,Jebari,10,No
+6262,Mariam,Kabbout,Female,NULL,0,0,10E/Ma,7,21.67000008,40,52,Noah,Taylor,10,No
+6264,Artis,Muraskinas,Male,SEN Support,1,1,10B/Ma,5,18.32999992,50,9,Nadir,Jebari,10,Yes
+6267,Ana,Gollaku,Female,NULL,1,1,10I/Ma,3,68.33000183,72,72,David,Madden,10,No
+6268,Teddie,Crump,Male,SEN Support,1,1,10H/Ma,5,NULL,NULL,6,Nadir,Jebari,10,Yes
+6272,Ebrahim,Raoufi,Male,NULL,0,0,10H/Ma,5,83.33000183,45,43,Nadir,Jebari,10,No
+6274,Mohammed,Rahman,Male,Monitoring,1,1,10E/Ma,7,16.67000008,33,11,Noah,Taylor,10,Yes
+6276,Bayan,Zouhar,Female,NULL,1,1,10I/Ma,3,78.33000183,92,74,David,Madden,10,No
+6277,Jonathen,Farag,Male,SEN Support,1,1,10W/Ma,4,20,12,23,Youssef,Chabibi,10,Yes
+6279,Jodie,Bahsoon,Female,NULL,0,0,10H/Ma,5,51.66999817,NULL,28,Nadir,Jebari,10,No
+6281,Dhylan,Leonty,Male,NULL,1,1,10H/Ma,5,56.66999817,NULL,35,Nadir,Jebari,10,No
+6282,Adel,Youseff,Male,NULL,1,1,10W/Ma,4,16.67000008,39,33,Youssef,Chabibi,10,No
+6283,Rania,Bakalla,Female,NULL,1,1,10H/Ma,5,71.66999817,83,49,Nadir,Jebari,10,No
+6284,Zoey,Anderson,Female,SEN Support,0,0,10I/Ma,3,65,54,63,David,Madden,10,Yes
+6285,Mohamed,Bakr,Male,NULL,1,1,10I/Ma,3,56.66999817,72,58,David,Madden,10,No
+6289,Maya,Hafez-Milani,Female,NULL,0,0,10O/Ma,1,50,63,11,Sadi,Mannan,10,No
+6290,Donis,Kameri,Male,NULL,0,0,10I/Ma,3,56.66999817,63,75,David,Madden,10,No
+6292,Sarah,Khelfaoui,Female,NULL,0,0,10E/Ma,7,18.32999992,42,30,Noah,Taylor,10,No
+6295,Rayan,Farah,Female,NULL,1,1,10I/Ma,3,81.66999817,85,73,David,Madden,10,No
+6296,Lamya,Afifi,Female,NULL,1,1,10O/Ma,1,16.67000008,21,10,Sadi,Mannan,10,No
+6301,Irfan,Rahman,Male,NULL,0,0,10R/Ma,9,5,52,24,Ruhina,Cockar,10,No
+6302,Erisa,Sherifi,Female,NULL,1,1,10W/Ma,4,11.67000008,29,12,Youssef,Chabibi,10,No
+6304,Dilara,Iljaz,Female,NULL,0,0,10O/Ma,1,61.66999817,60,58,Sadi,Mannan,10,No
+6305,Mohamed,Issa,Male,NULL,0,0,10E/Ma,7,26.67000008,42,15,Noah,Taylor,10,No
+6307,Rawane,Belhajja,Female,NULL,0,0,10I/Ma,3,65,73,45,David,Madden,10,No
+6308,Jasmine,Rahman,Female,NULL,0,0,10A/Ma,2,78.33000183,89,83,Swapna,Agarwal,10,No
+6311,Nasser,Saleh,Male,Monitoring,1,1,10B/Ma,5,8.329999924,24,13,Nadir,Jebari,10,Yes
+6312,Rea,Gollaku,Female,NULL,1,1,10O/Ma,1,63.33000183,66,64,Sadi,Mannan,10,No
+6314,Dea,Gollaku,Female,NULL,1,1,10O/Ma,1,55,63,45,Sadi,Mannan,10,No
+6318,Fatima,Hashemyan,Female,NULL,0,0,10E/Ma,7,46.66999817,42,25,Noah,Taylor,10,No
+6319,Ishwaq,Mohamed,Female,NULL,1,1,10B/Ma,5,40,49,50,Nadir,Jebari,10,No
+6320,Hannah,Hossain,Female,NULL,1,1,10E/Ma,7,18.32999992,34,21,Noah,Taylor,10,No
+6321,Soumaya,Begum,Female,NULL,1,1,10H/Ma,5,55,28,39,Nadir,Jebari,10,No
+6324,Adam,Ladri,Male,SEN Support,0,0,10E/Ma,7,21.67000008,37,17,Noah,Taylor,10,Yes
+6325,Anyer Janiel,Brito Perez,Male,NULL,1,1,10B/Ma,5,8.329999924,25,14,Nadir,Jebari,10,No
+6326,Meryem,Amghar,Female,NULL,1,1,10B/Ma,5,31.67000008,40,18,Nadir,Jebari,10,No
+6327,Harlem,Etienne,Male,SEN Support,1,1,10E/Ma,7,38.33000183,50,12,Noah,Taylor,10,Yes
+6329,Keny,Ahmed,Female,NULL,0,0,10W/Ma,4,23.32999992,37,43,Youssef,Chabibi,10,No
+6330,Marwa,Hatm,Female,NULL,1,1,10A/Ma,2,8.329999924,20,9,Swapna,Agarwal,10,No
+6332,Mohammed,Jameel,Male,SEN Support,1,1,10R/Ma,9,3.329999924,23,14,Ruhina,Cockar,10,Yes
+6333,Chiama,Soliman,Female,NULL,1,1,10B/Ma,5,15,37,11,Nadir,Jebari,10,No
+6334,Mohammed,Ouladzahra,Male,NULL,1,1,10B/Ma,5,25,41,10,Nadir,Jebari,10,No
+6336,Leah,Rahmati,Female,NULL,0,0,10A/Ma,2,80,91,77,Swapna,Agarwal,10,No
+6337,Abdullah,Jebari,Male,NULL,1,1,10A/Ma,2,0,75,49,Swapna,Agarwal,10,No
+6339,Hadeel,Merza,Female,NULL,1,1,10B/Ma,5,13.32999992,20,7,Nadir,Jebari,10,No
+6342,Nada,Aabart,Female,NULL,0,0,10R/Ma,9,15,43,13,Ruhina,Cockar,10,No
+6343,Othman,Ibrahim,Male,NULL,1,1,10O/Ma,1,43.33000183,NULL,16,Sadi,Mannan,10,No
+6344,Jazeel,Dibildos,Male,NULL,1,1,10B/Ma,5,33.33000183,45,13,Nadir,Jebari,10,No
+6347,Navid,Mazumder,Male,NULL,0,0,10H/Ma,5,81.66999817,NULL,64,Nadir,Jebari,10,No
+6348,Tahmina,Begum,Female,NULL,1,1,10B/Ma,5,25,40,23,Nadir,Jebari,10,No
+6351,Yernar,Khalmetov,Male,NULL,0,0,10O/Ma,1,73.33000183,71,57,Sadi,Mannan,10,No
+6352,Shah,Nasir,Male,SEN Support,0,0,10R/Ma,9,35,54,35,Ruhina,Cockar,10,Yes
+6353,Abdullatif,Husseiny,Male,NULL,1,1,10W/Ma,4,20,24,32,Youssef,Chabibi,10,No
+6355,Ayisha,Alhassan,Female,NULL,0,0,10W/Ma,4,13.32999992,30,28,Youssef,Chabibi,10,No
+6356,Tayiba,Akther,Female,NULL,1,1,10O/Ma,1,18.32999992,33,10,Sadi,Mannan,10,No
+6359,Blessing,Makaya Bakwa,Female,NULL,0,0,10A/Ma,2,35,60,53,Swapna,Agarwal,10,No
+6360,Aisha,Ahmed,Female,NULL,0,0,10W/Ma,4,21.67000008,29,29,Youssef,Chabibi,10,No
+6362,Gerti,Balaj,Male,NULL,0,0,10R/Ma,9,28.32999992,23,17,Ruhina,Cockar,10,No
+6364,Yasna,Ebrahim,Female,SEN Support,1,1,10R/Ma,9,35,NULL,23,Ruhina,Cockar,10,Yes
+6367,De'Jean-Marie,Le Blanc-Nicholas,Female,NULL,0,0,10R/Ma,9,23.32999992,43,21,Ruhina,Cockar,10,No
+6370,Sandra,Sapon,Female,NULL,0,0,10W/Ma,4,20,35,30,Youssef,Chabibi,10,No
+6371,Amelia,Mahfoudi,Female,NULL,0,0,10A/Ma,2,6.670000076,21,12,Swapna,Agarwal,10,No
+6373,Arifa,Mili,Female,SEN Support,1,1,10B/Ma,5,0,3,6,Nadir,Jebari,10,Yes
+6376,Harmony,Mayala,Female,NULL,0,0,10E/Ma,7,38.33000183,46,35,Noah,Taylor,10,No
+6377,Gabriel,Witkowski Ferreira,Male,NULL,0,0,10E/Ma,7,23.32999992,34,16,Noah,Taylor,10,No
+6379,Tanzila,Rahman,Female,"Education, Health and Care Plan",1,1,10E/Ma,7,1.669999957,21,14,Noah,Taylor,10,Yes
+6381,Ahmed,Mahmoud,Male,SEN Support,1,1,10E/Ma,7,0,11,6,Noah,Taylor,10,Yes
+6382,Shorouk,Rabii,Female,SEN Support,1,1,10B/Ma,5,63.33000183,17,43,Nadir,Jebari,10,Yes
+6384,Ibrahim,Miah,Male,SEN Support,1,1,10R/Ma,9,31.67000008,45,20,Ruhina,Cockar,10,Yes
+6385,Nadeefa,Islam,Female,NULL,0,0,10I/Ma,3,56.66999817,50,40,David,Madden,10,No
+6386,Alaa,Jelassi,Female,NULL,1,1,10E/Ma,7,1.669999957,NULL,6,Noah,Taylor,10,No
+6387,Eesa,Harti,Male,NULL,0,0,10W/Ma,4,31.67000008,51,40,Youssef,Chabibi,10,No
+6389,Nasim,Ahmed,Male,NULL,1,1,10H/Ma,5,78.33000183,95,31,Nadir,Jebari,10,No
+6392,Kamali,Hamid,Male,NULL,1,1,10O/Ma,1,60,60,6,Sadi,Mannan,10,No
+6393,Abbas,El-Rumani,Male,NULL,0,0,10E/Ma,7,26.67000008,38,16,Noah,Taylor,10,No
+6394,Sofia,Lambri,Female,NULL,0,0,10H/Ma,5,45,43,17,Nadir,Jebari,10,No
+6395,Arb,Dullovi,Male,NULL,1,1,10I/Ma,3,76.66999817,70,79,David,Madden,10,No
+6396,Francesco,Grala,Male,NULL,0,0,10I/Ma,3,60,61,31,David,Madden,10,No
+6399,Raeon,Gourde,Male,NULL,1,1,10A/Ma,2,0,NULL,6,Swapna,Agarwal,10,No
+6401,Isaac,Ijanboh,Male,NULL,0,0,10A/Ma,2,25,32,7,Swapna,Agarwal,10,No
+6402,Leon,Mathieu-Nasser,Male,NULL,0,0,10I/Ma,3,63.33000183,58,63,David,Madden,10,No
+6403,Abdullah,Ibrahim Kale,Male,Monitoring,1,1,10H/Ma,5,25,NULL,23,Nadir,Jebari,10,Yes
+6405,Lareen,Hashim,Female,Monitoring,0,0,10A/Ma,2,43.33000183,37,26,Swapna,Agarwal,10,Yes
+6406,Attael,Mubama,Female,SEN Support,1,1,10E/Ma,7,5,17,8,Noah,Taylor,10,Yes
+6416,Luliya,Leghese,Female,NULL,1,1,10E/Ma,7,10,32,4,Noah,Taylor,10,No
+6417,Aahil,Habibi,Male,NULL,1,1,10R/Ma,9,38.33000183,37,11,Ruhina,Cockar,10,No
+6422,Reyhana,Ahmed,Female,NULL,0,0,10B/Ma,5,21.67000008,36,26,Nadir,Jebari,10,No
+6424,Adriana,Giampietro,Female,Monitoring,1,1,10H/Ma,5,13.32999992,48,8,Nadir,Jebari,10,Yes
+6427,Harezo,Kayumi,Female,NULL,0,0,10I/Ma,3,85,85,75,David,Madden,10,No
+6428,Adham,Alyan,Male,SEN Support,1,1,10H/Ma,5,65,22,44,Nadir,Jebari,10,Yes
+6430,Parvej,Hussain,Male,NULL,1,1,10O/Ma,1,NULL,63,56,Sadi,Mannan,10,No
+6432,Siam,Ahmed,Male,NULL,0,0,10W/Ma,4,23.32999992,48,36,Youssef,Chabibi,10,No
+6434,Mustafa Badr,Assab Chghaich,Male,NULL,0,0,10W/Ma,4,21.67000008,35,51,Youssef,Chabibi,10,No
+6436,Rayanne,Hamilton,Female,NULL,1,1,10O/Ma,1,5,NULL,6,Sadi,Mannan,10,No
+6438,Anita,Uddin,Female,NULL,1,1,10B/Ma,5,1.669999957,34,12,Nadir,Jebari,10,No
+6440,Raqiya,Ali,Female,NULL,1,1,10I/Ma,3,6.670000076,29,22,David,Madden,10,No
+6446,Mariam,Ahmed,Female,NULL,1,1,10R/Ma,9,30,49,21,Ruhina,Cockar,10,No
+6449,Holly,Buckley-Thompson,Female,NULL,0,0,10B/Ma,5,18.32999992,35,10,Nadir,Jebari,10,No
+6450,Freddie,Blackmun,Male,"Education, Health and Care Plan",0,0,10I/Ma,3,15,24,19,David,Madden,10,Yes
+6452,Zayed,Bourouin,Male,NULL,0,0,10W/Ma,4,26.67000008,37,36,Youssef,Chabibi,10,No
+6453,Muzen,Jacob,Female,NULL,1,1,10A/Ma,2,26.67000008,50,12,Swapna,Agarwal,10,No
+6456,Namirah,Bishop,Female,Monitoring,1,1,10W/Ma,4,26.67000008,53,60,Youssef,Chabibi,10,Yes
+6462,Zainab,Khanom,Female,"Education, Health and Care Plan",0,0,10W/Ma,4,25,38,23,Youssef,Chabibi,10,Yes
+6464,Ashwaq,Hassan,Female,NULL,1,1,10W/Ma,4,16.67000008,25,15,Youssef,Chabibi,10,No
+6465,Linuza,Thamotharampillai,Female,NULL,1,1,10E/Ma,7,28.32999992,NULL,28,Noah,Taylor,10,No
+6469,Samah,Heba-Tanzila,Female,NULL,0,0,10E/Ma,7,21.67000008,28,18,Noah,Taylor,10,No
+6472,Edward,Moloney,Male,NULL,1,1,10B/Ma,5,46.66999817,25,29,Nadir,Jebari,10,No
+6473,Fazal,Choudhary,Male,NULL,1,1,10W/Ma,4,20,49,51,Youssef,Chabibi,10,No
+6477,Fatima,Derecho,Female,NULL,0,0,10W/Ma,4,18.32999992,12,26,Youssef,Chabibi,10,No
+6480,Yousef,Darwish,Male,NULL,1,1,10R/Ma,9,63.33000183,49,43,Ruhina,Cockar,10,No
+6483,Rialda,Pacolli,Female,NULL,0,0,10B/Ma,5,31.67000008,57,43,Nadir,Jebari,10,No
+6484,Yusra,Ahmed,Female,NULL,0,0,10B/Ma,5,40,28,11,Nadir,Jebari,10,No
+6492,Elaf,Ali,Female,SEN Support,1,1,10H/Ma,5,8.329999924,37,14,Nadir,Jebari,10,Yes
+6502,Amaan,Al-Mahdi,Male,NULL,1,1,10R/Ma,9,36.66999817,55,40,Ruhina,Cockar,10,No
+6507,Zain,Al-Mahdi,Male,"Education, Health and Care Plan",1,1,10I/Ma,3,36.66999817,39,27,David,Madden,10,Yes
+6515,Artin,Karami,Male,NULL,1,1,10A/Ma,2,15,41,6,Swapna,Agarwal,10,No
+6519,Abrar,Ridha,Female,NULL,1,1,10R/Ma,9,10,23,8,Ruhina,Cockar,10,No
+6526,Abigail,Godwill,Female,No Special Educational Need,1,1,10E/Ma,7,30,43,18,Noah,Taylor,10,No
+6530,Reemas,Hussein,Female,NULL,1,1,10R/Ma,9,5,24,8,Ruhina,Cockar,10,No
+6531,Anis,Lakehal,Male,NULL,1,1,10I/Ma,3,85,89,78,David,Madden,10,No
+6539,Abdullah,Abdulrazaq,Male,NULL,1,1,10B/Ma,5,0,28,14,Nadir,Jebari,10,No
+6543,Djhenae,Phiri,Female,NULL,0,0,10O/Ma,1,71.66999817,75,6,Sadi,Mannan,10,No
+6544,Alessia,Seoane Ramirez,Female,NULL,0,0,10A/Ma,2,68.33000183,84,65,Swapna,Agarwal,10,No
+6559,Omar,Aamer,Male,NULL,0,0,9E/Ma,8,68.30000305,56,58.20000076,Nicola,Atkins,9,No
+6560,Manel Yasmine,Abdelli,Female,NULL,1,1,9I/Ma,4,70,76,76.40000153,Youssef,Chabibi,9,No
+6561,Layla,Abdillahi,Female,NULL,0,0,9H/Ma,7,43.29999924,38,25.5,Noah,Taylor,9,No
+6562,Hussain,Abdullah,Male,SEN Support,1,1,9H/Ma,7,0,67,0,Noah,Taylor,9,Yes
+6563,Malak,Abou Saleh,Female,NULL,0,0,9E/Ma,8,60,80,89.09999847,Nicola,Atkins,9,No
+6564,Mohamed,Abubakar,Male,Monitoring,1,1,9R/Ma,10,13.30000019,80,23.60000038,Rosa,Domingo,9,Yes
+6565,Jameelah,Abyan,Female,SEN Support,0,0,9R/Ma,10,45,73,65.5,Rosa,Domingo,9,Yes
+6566,Nwran,Adem,Female,NULL,1,1,9O/Ma,11,25,51,18.20000076,Paul,Mulvihill,9,No
+6567,Kan -El,Adjei,Male,NULL,0,0,9O/Ma,11,55,33,45.5,Paul,Mulvihill,9,No
+6569,Hussein,Ghanem,Male,NULL,0,0,9B/Ma,3,35,69,65.5,David,Madden,9,No
+6570,Eliab,Ghirmay,Male,NULL,1,1,9H/Ma,7,26.70000076,76,47.29999924,Noah,Taylor,9,No
+6571,Soliana,Giday,Female,NULL,1,1,9R/Ma,10,61.70000076,42,47.29999924,Rosa,Domingo,9,No
+6573,David,Godwill,Male,No Special Educational Need,1,1,9R/Ma,10,0,0,0,Rosa,Domingo,9,No
+6574,Rafael,Guerra Antunes,Male,NULL,0,0,9W/Ma,7,36.70000076,5,78.19999695,Noah,Taylor,9,No
+6575,Preshan,Gurung,Female,NULL,1,1,9O/Ma,11,26.70000076,11,56.40000153,Paul,Mulvihill,9,No
+6576,Faryal,Habibi,Female,NULL,1,1,9E/Ma,8,28.29999924,15,0,Nicola,Atkins,9,No
+6577,Rasheed,Haron,Male,No Special Educational Need,1,1,9R/Ma,10,28.29999924,13,52.70000076,Rosa,Domingo,9,No
+6579,Sarah,Hashemyan,Female,NULL,0,0,9W/Ma,7,36.70000076,82,29.10000038,Noah,Taylor,9,No
+6580,Eman,Hassan,Female,No Special Educational Need,0,0,9I/Ma,4,11.69999981,44,10.89999962,Youssef,Chabibi,9,No
+6582,Nader,Ali,Male,NULL,0,0,9W/Ma,7,68.30000305,75,70.90000153,Noah,Taylor,9,No
+6583,Nadia,Ahmed,Female,NULL,0,0,9B/Ma,3,75,55,83.59999847,David,Madden,9,No
+6584,Amira,Ahnoud,Female,NULL,0,0,9R/Ma,10,80,53,70.90000153,Rosa,Domingo,9,No
+6585,Zikra,Akther,Female,No Special Educational Need,0,0,9B/Ma,3,68.30000305,49,72.69999695,David,Madden,9,No
+6588,Ayuba,Alhassan,Male,NULL,0,0,9B/Ma,3,60,80,69.09999847,David,Madden,9,No
+6589,Haya,Ali,Female,SEN Support,1,1,9W/Ma,7,6.699999809,84,32.70000076,Noah,Taylor,9,Yes
+6592,Sajaa,Aline,Female,SEN Support,1,1,9W/Ma,7,0,80,0,Noah,Taylor,9,Yes
+6593,Ali,Aljaberi,Male,SEN Support,1,1,9O/Ma,11,18.29999924,NULL,0,Paul,Mulvihill,9,Yes
+6597,Yehya,Altobi,Male,NULL,1,1,9H/Ma,7,48.29999924,91,41.79999924,Noah,Taylor,9,No
+6598,Liam,Alwart,Male,NULL,0,0,9I/Ma,4,73.30000305,56,98.19999695,Youssef,Chabibi,9,No
+6599,Ramzy,Arezki,Male,NULL,0,0,9H/Ma,7,18.29999924,65,0,Noah,Taylor,9,No
+6601,Achraf,Bargach,Male,SEN Support,0,0,9E/Ma,8,23.29999924,55,0,Nicola,Atkins,9,Yes
+6602,Aya,Begum,Female,NULL,1,1,9R/Ma,10,75,69,80,Rosa,Domingo,9,No
+6603,Hamza,Ben Abdullah,Male,NULL,1,1,9I/Ma,4,80,38,90.90000153,Youssef,Chabibi,9,No
+6605,Arthur,Both,Male,NULL,0,0,9H/Ma,7,96.69999695,76,0,Noah,Taylor,9,No
+6606,Haitam,Boumelha,Male,NULL,1,1,9E/Ma,8,31.70000076,65,25.5,Nicola,Atkins,9,No
+6607,Lorenzo,Brum,Male,NULL,0,0,9I/Ma,4,26.70000076,91,34.5,Youssef,Chabibi,9,No
+6608,Maya,Mohamed Bushara,Female,NULL,0,0,9W/Ma,7,51.70000076,0,NULL,Noah,Taylor,9,No
+6610,Nathaniel,Canagasabey-Olarte,Male,NULL,0,0,9B/Ma,3,53.29999924,73,65.5,David,Madden,9,No
+6611,Joanne,Capacia,Female,Monitoring,0,0,9B/Ma,3,0,NULL,25.5,David,Madden,9,Yes
+6612,Nazlee,Ali,Female,NULL,1,1,9E/Ma,8,35,47,23.60000038,Nicola,Atkins,9,No
+6613,Anass,Chatt,Male,Monitoring,1,1,9R/Ma,10,8.300000191,0,0,Rosa,Domingo,9,Yes
+6616,Maria,Chowdhury,Female,SEN Support,1,1,9B/Ma,3,16.70000076,56,16.39999962,David,Madden,9,Yes
+6618,Louisa,Courtis,Female,NULL,0,0,9W/Ma,7,100,69,92.69999695,Noah,Taylor,9,No
+6619,Jesse,Crosby-Edo,Male,SEN Support,1,1,9E/Ma,8,38.29999924,53,25.5,Nicola,Atkins,9,Yes
+6621,Rodrigo,Pereira,Male,NULL,0,0,9W/Ma,7,81.69999695,31,69.09999847,Noah,Taylor,9,No
+6622,Selen,Darwiche,Female,NULL,1,1,9R/Ma,10,43.29999924,0,10.89999962,Rosa,Domingo,9,No
+6623,Nasir,David-Makanju,Male,"Education, Health and Care Plan",1,1,9W/Ma,7,0,64,0,Noah,Taylor,9,Yes
+6626,Ilian,Djahlat,Male,NULL,0,0,9R/Ma,10,38.29999924,100,0,Rosa,Domingo,9,No
+6628,Ines,Djelid,Female,NULL,1,1,9I/Ma,4,23.29999924,76,25.5,Youssef,Chabibi,9,No
+6629,Abigail,Edwards,Female,NULL,0,0,9R/Ma,10,93.30000305,NULL,80,Rosa,Domingo,9,No
+6630,Layla,El Kadey,Female,NULL,0,0,9H/Ma,7,75,53,89.09999847,Noah,Taylor,9,No
+6631,Maria,El-Youssef,Female,NULL,1,1,9H/Ma,7,51.70000076,42,41.79999924,Noah,Taylor,9,No
+6632,Mohammad,El-Abdallah,Male,NULL,1,1,9O/Ma,11,70,80,90.90000153,Paul,Mulvihill,9,No
+6633,Joseph,Eldabash,Male,Monitoring,1,1,9H/Ma,7,30,25,47.29999924,Noah,Taylor,9,Yes
+6635,Yasmina,Fakhreldine,Female,NULL,1,1,9E/Ma,8,31.70000076,11,80,Nicola,Atkins,9,No
+6637,Ibrahim,Gabani,Male,NULL,1,1,9I/Ma,4,73.30000305,58,85.5,Youssef,Chabibi,9,No
+6638,Berna,Gashi,Female,NULL,0,0,9B/Ma,3,41.70000076,35,67.30000305,David,Madden,9,No
+6639,Sion,Gashi,Male,NULL,0,0,9E/Ma,8,58.29999924,11,70.90000153,Nicola,Atkins,9,No
+6640,Tsion,Gebremeskel,Female,NULL,1,1,9B/Ma,3,83.30000305,85,96.40000153,David,Madden,9,No
+6641,Victoria Katharine,Pereira de Morais,Female,NULL,0,0,9W/Ma,7,1.700000048,NULL,9.100000381,Noah,Taylor,9,No
+6644,Ali,Qureshi,Male,NULL,0,0,9H/Ma,7,81.69999695,15,89.09999847,Noah,Taylor,9,No
+6645,Amira,Rahim,Female,SEN Support,1,1,9O/Ma,11,5,0,0,Paul,Mulvihill,9,Yes
+6646,Taysha,Ramasor,Female,SEN Support,1,1,9H/Ma,7,8.300000191,29,10.89999962,Noah,Taylor,9,Yes
+6647,Daniel,Reed Rassul,Male,NULL,0,0,9H/Ma,7,48.29999924,25,67.30000305,Noah,Taylor,9,No
+6649,Muhmmed Ali,Rehman,Male,NULL,1,1,9E/Ma,8,46.70000076,13,56.40000153,Nicola,Atkins,9,No
+6650,Melda,Rexhepi,Female,No Special Educational Need,0,0,9W/Ma,7,5,24,5.5,Noah,Taylor,9,No
+6651,Bailey Jones,Roberts,Male,NULL,0,0,9E/Ma,8,36.70000076,18,12.69999981,Nicola,Atkins,9,No
+6655,Mohamed,Salhab,Male,No Special Educational Need,0,0,9I/Ma,4,35,2,18.20000076,Youssef,Chabibi,9,No
+6656,Assiyah,Salouane,Female,SEN Support,1,1,9E/Ma,8,8.300000191,31,3.599999905,Nicola,Atkins,9,Yes
+6658,Jennet,Sbaa,Female,SEN Support,1,1,9O/Ma,11,11.69999981,7,10.89999962,Paul,Mulvihill,9,Yes
+6659,Oscar,Scott,Male,NULL,0,0,9R/Ma,10,95,NULL,96.40000153,Rosa,Domingo,9,No
+6661,Byron,Seddon,Male,NULL,0,0,9B/Ma,3,88.30000305,36,87.30000305,David,Madden,9,No
+6662,Adrian,Seoane Ramirez,Male,NULL,0,0,9H/Ma,7,31.70000076,31,36.40000153,Noah,Taylor,9,No
+6663,Blenard,Sfarca,Male,NULL,0,0,9B/Ma,3,36.70000076,44,56.40000153,David,Madden,9,No
+6664,Dilan,Shah,Male,SEN Support,0,0,9R/Ma,10,98.30000305,13,100,Rosa,Domingo,9,Yes
+6666,Mansoor,Sheikh,Male,NULL,0,0,9E/Ma,8,25,22,36.40000153,Nicola,Atkins,9,No
+6668,Alicia,Morais De Siqueira,Female,SEN Support,0,0,9E/Ma,8,21.70000076,22,16.39999962,Nicola,Atkins,9,Yes
+6669,Sam,Slade,Male,NULL,0,0,9O/Ma,11,91.69999695,NULL,100,Paul,Mulvihill,9,No
+6670,Nabil,Soloman,Male,SEN Support,1,1,9W/Ma,7,20,NULL,29.10000038,Noah,Taylor,9,Yes
+6671,Shanae,Stewart,Female,NULL,0,0,9O/Ma,11,60,75,70.90000153,Paul,Mulvihill,9,No
+6673,Anis,Taleb,Male,NULL,1,1,9H/Ma,7,38.29999924,4,49.09999847,Noah,Taylor,9,No
+6674,Hala,Talib,Female,NULL,1,1,9I/Ma,4,31.70000076,13,10.89999962,Youssef,Chabibi,9,No
+6675,Salma,Tawfik,Female,"Education, Health and Care Plan",1,1,9H/Ma,7,16.70000076,9,20,Noah,Taylor,9,Yes
+6676,Art,Terbunja,Male,NULL,1,1,9I/Ma,4,61.70000076,11,70.90000153,Youssef,Chabibi,9,No
+6679,Niya,Tsang,Female,NULL,0,0,9B/Ma,3,98.30000305,36,98.19999695,David,Madden,9,No
+6681,Amir,Tupela,Male,SEN Support,0,0,9R/Ma,10,38.29999924,7,40,Rosa,Domingo,9,Yes
+6683,Ismaeele,Uddin,Male,NULL,1,1,9E/Ma,8,48.29999924,33,0,Nicola,Atkins,9,No
+6685,Yunis,Ullah,Male,NULL,0,0,9B/Ma,3,85,24,94.5,David,Madden,9,No
+6686,Lyna,Djahlat,Female,NULL,0,0,9R/Ma,10,20,NULL,50.90000153,Rosa,Domingo,9,No
+6690,Malikai,Djalo,Male,Monitoring,1,1,9O/Ma,11,0,NULL,0,Paul,Mulvihill,9,Yes
+6691,Fatima-Zahara,Yahaya,Female,NULL,1,1,9B/Ma,3,36.70000076,18,21.79999924,David,Madden,9,No
+6694,Alisa,Zeneli,Female,NULL,0,0,9I/Ma,4,31.70000076,9,21.79999924,Youssef,Chabibi,9,No
+6700,Donik,Haziri,Male,NULL,1,1,9I/Ma,4,66.69999695,27,65.5,Youssef,Chabibi,9,No
+6704,Salma,Herar,Female,NULL,0,0,9O/Ma,11,88.30000305,85,92.69999695,Paul,Mulvihill,9,No
+6710,Maisha,Hussain,Female,NULL,1,1,9I/Ma,4,26.70000076,4,23.60000038,Youssef,Chabibi,9,No
+6718,Harlee,Isaac-Demetriou,Male,NULL,1,1,9B/Ma,3,78.30000305,91,0,David,Madden,9,No
+6719,Adil,Islam,Male,No Special Educational Need,0,0,9B/Ma,3,41.70000076,64,52.70000076,David,Madden,9,No
+6721,Omar,Ismail,Male,NULL,1,1,9O/Ma,11,55,40,45.5,Paul,Mulvihill,9,No
+6723,Tyrone,Isong,Male,NULL,1,1,9H/Ma,7,0,25,38.20000076,Noah,Taylor,9,No
+6725,Mohammed,Sarumi,Male,NULL,1,1,9H/Ma,7,90,4,92.69999695,Noah,Taylor,9,No
+6727,Zara,Jamil,Female,NULL,1,1,9E/Ma,8,85,16,94.5,Nicola,Atkins,9,No
+6729,Ali,Jasim,Male,NULL,1,1,9W/Ma,7,35,NULL,25.5,Noah,Taylor,9,No
+6732,Dareen,Jawaz,Female,NULL,1,1,9H/Ma,7,31.70000076,38,20,Noah,Taylor,9,No
+6736,Bozlul,Joseph,Male,NULL,1,1,9W/Ma,7,33.29999924,NULL,25.5,Noah,Taylor,9,No
+6740,Seyar,Kabir,Male,NULL,0,0,9E/Ma,8,53.29999924,42,56.40000153,Nicola,Atkins,9,No
+6744,Mohammed Yusuf,Karim,Male,NULL,1,1,9O/Ma,11,81.69999695,69,89.09999847,Paul,Mulvihill,9,No
+6746,Mohammed Ishaq,Karim,Male,NULL,1,1,9R/Ma,10,80,40,100,Rosa,Domingo,9,No
+6748,Dounya,Karzazi,Female,SEN Support,0,0,9E/Ma,8,28.29999924,15,10.89999962,Nicola,Atkins,9,Yes
+6753,Ryan,Khaled,Male,"No Special Educational Need, Monitoring",1,1,9W/Ma,7,15,NULL,27.29999924,Noah,Taylor,9,No
+6755,Maryam,Khan,Female,NULL,0,0,9E/Ma,8,70,31,74.5,Nicola,Atkins,9,No
+6757,Zaara,Khatun,Female,NULL,0,0,9I/Ma,4,51.70000076,29,67.30000305,Youssef,Chabibi,9,No
+6761,Rijad,Krasniqi,Male,NULL,1,1,9O/Ma,11,21.70000076,4,1.799999952,Paul,Mulvihill,9,No
+6763,John,Libao,Male,NULL,0,0,9I/Ma,4,83.30000305,45,96.40000153,Youssef,Chabibi,9,No
+6765,Valencia,Lim,Female,NULL,0,0,9I/Ma,4,76.69999695,15,89.09999847,Youssef,Chabibi,9,No
+6767,Mallek,Louddi,Female,NULL,0,0,9H/Ma,7,40,18,34.5,Noah,Taylor,9,No
+6774,Kaden,Mason,Male,SEN Support,0,0,9O/Ma,11,0,45,60,Paul,Mulvihill,9,Yes
+6776,Alisha,Maktadir,Female,NULL,1,1,9B/Ma,3,60,71,72.69999695,David,Madden,9,No
+6778,Karter Kodie,Mathurin,Male,NULL,1,1,9B/Ma,3,20,31,0,David,Madden,9,No
+6780,Maison,McIntosh-Tison,Male,SEN Support,1,1,9E/Ma,8,13.30000019,11,36.40000153,Nicola,Atkins,9,Yes
+6783,Rahaf,Merza,Female,NULL,1,1,9B/Ma,3,18.29999924,7,43.59999847,David,Madden,9,No
+6785,Rayyan,Mesaud,Male,NULL,0,0,9W/Ma,7,56.70000076,49,65.5,Noah,Taylor,9,No
+6787,Adil,Miah,Male,NULL,0,0,9E/Ma,8,43.29999924,NULL,63.59999847,Nicola,Atkins,9,No
+6788,Daniyah,Mian,Female,No Special Educational Need,1,1,9R/Ma,10,33.29999924,NULL,32.70000076,Rosa,Domingo,9,No
+6792,Tala,Mohammad,Female,NULL,0,0,9H/Ma,7,55,38,65.5,Noah,Taylor,9,No
+6798,Jaeda,Monrose,Female,NULL,1,1,9I/Ma,4,60,16,0,Youssef,Chabibi,9,No
+6800,Daud,Mualim,Male,SEN Support,0,0,9E/Ma,8,73.30000305,9,85.5,Nicola,Atkins,9,Yes
+6802,Harun,Mohamed,Male,NULL,1,1,9O/Ma,11,11.69999981,NULL,5.5,Paul,Mulvihill,9,No
+6804,Jayden,Mundle,Male,SEN Support,0,0,9I/Ma,4,15,0,29.10000038,Youssef,Chabibi,9,Yes
+6808,Damian,Nowak Seoane,Male,NULL,0,0,9B/Ma,3,86.69999695,NULL,92.69999695,David,Madden,9,No
+6809,Mya,O'Brien-Richards,Female,SEN Support,0,0,9B/Ma,3,8.300000191,22,7.300000191,David,Madden,9,Yes
+6810,Hussein,Wehbi,Male,NULL,0,0,9W/Ma,7,73.30000305,0,76.40000153,Noah,Taylor,9,No
+6811,Jacob,Ogunkoya,Male,SEN Support,0,0,9O/Ma,11,38.29999924,42,61.79999924,Paul,Mulvihill,9,Yes
+6815,Fajr,Oladokun Akintonwa,Male,SEN Support,1,1,9R/Ma,10,0,64,0,Rosa,Domingo,9,Yes
+6819,Ean,Palencia,Male,NULL,0,0,9O/Ma,11,63.29999924,80,76.40000153,Paul,Mulvihill,9,No
+6821,Mason,Paxton,Male,NULL,1,1,9O/Ma,11,50,29,67.30000305,Paul,Mulvihill,9,No
+6915,Alexandros,Georgiadis-Tavadze,Male,SEN Support,0,0,9O/Ma,11,5,7,0,Paul,Mulvihill,9,Yes
+6917,Fatiha,Ullah,Female,NULL,1,1,9O/Ma,11,81.69999695,78,94.5,Paul,Mulvihill,9,No
+6918,Jack,Joyce,Male,NULL,0,0,9E/Ma,8,58.29999924,33,65.5,Nicola,Atkins,9,No
+6926,Zahra,Jalali,Female,NULL,1,1,10A/Ma,2,15,23,6,Swapna,Agarwal,10,No
+6933,Ayoub,Saeed,Male,NULL,0,0,9I/Ma,4,38.29999924,24,5.5,Youssef,Chabibi,9,No
+6934,Lily,Tagoe,Female,NULL,1,1,9W/Ma,7,41.70000076,9,60,Noah,Taylor,9,No
+6936,Maria,Velasquez Rogel,Female,NULL,0,0,9B/Ma,3,46.70000076,0,40,David,Madden,9,No
+6940,Meliya,Aichoun,Female,NULL,1,1,10H/Ma,5,50,50,25,Nadir,Jebari,10,No
+6951,Majid,Mesaud,Male,NULL,0,0,10H/Ma,5,60,83,35,Nadir,Jebari,10,No
+6952,Guilherme,Funk,Male,NULL,0,0,9I/Ma,4,11.69999981,64,20,Youssef,Chabibi,9,No
+6953,Leontina,Dekirmenzhian,Female,NULL,0,0,9W/Ma,7,88.30000305,51,85.5,Noah,Taylor,9,No
+6954,Raneem,Sheikh,Female,NULL,1,1,9B/Ma,3,70,49,70.90000153,David,Madden,9,No
+6958,Hillary,Pereira,Female,NULL,0,0,9R/Ma,10,20,53,0,Rosa,Domingo,9,No
+6973,Zongwu,Wang,Male,NULL,0,0,9W/Ma,7,85,0,87.30000305,Noah,Taylor,9,No
+6974,Edison,Lee,Male,NULL,0,0,9R/Ma,10,80,36,92.69999695,Rosa,Domingo,9,No
+6979,Soleeman,Abbas,Male,"Education, Health and Care Plan",1,1,9I/Ma,4,30,36,5.5,Youssef,Chabibi,9,Yes
+6981,Shereen,Sardar,Female,"Education, Health and Care Plan",0,0,9H/Ma,7,0,9,9.100000381,Noah,Taylor,9,Yes
+6982,Zena,Yahya Ali,Female,"Education, Health and Care Plan",1,1,9E/Ma,8,8.300000191,2,1.799999952,Nicola,Atkins,9,Yes
+6990,Mohamed,Elbagoury,Male,NULL,0,0,9O/Ma,11,66.69999695,47,76.40000153,Paul,Mulvihill,9,No
+6991,Omar,Al Shekh Taleb,Male,SEN Support,1,1,9O/Ma,11,68.30000305,69,81.80000305,Paul,Mulvihill,9,Yes
+6992,Ruqaya,Thageel,Female,NULL,0,0,9I/Ma,4,5,33,10.89999962,Youssef,Chabibi,9,No
+7028,Sumayyah,Osman,Female,NULL,1,1,9B/Ma,3,78.30000305,35,94.5,David,Madden,9,No
+7469,Amina,Ake-Okpo,Female,NULL,1,1,10O/Ma,1,30,NULL,6,Sadi,Mannan,10,No
+7622,Sofia,Canagasabey-Olarte,Female,NULL,0,0,10O/Ma,1,38.33000183,43,21,Sadi,Mannan,10,No
+7778,Hatem,Alyami,Male,NULL,0,0,10I/Ma,3,61.66999817,62,47,David,Madden,10,No
+7779,Majed,Alyami,Male,NULL,0,0,9H/Ma,7,55,80,67.30000305,Noah,Taylor,9,No
+8610,Muhammed Arif,Minhaj,Male,"Education, Health and Care Plan",0,0,8R/Ma,10,16.70000076,0,0,Rosa,Domingo,8,Yes
+10535,Fawzi,Bendou,Male,NULL,0,0,9E/Ma,8,21.70000076,51,49.09999847,Nicola,Atkins,9,No
+11079,Bana,Drayi,Female,SEN Support,0,0,10O/Ma,1,0,29,3,Sadi,Mannan,10,Yes
+11082,Said,Elmi,Male,NULL,0,0,10R/Ma,9,45,70,26,Ruhina,Cockar,10,No
+11087,Ilyas,Mohamed,Male,NULL,1,1,9H/Ma,7,68.30000305,36,85.5,Noah,Taylor,9,No
+11091,Maher,Hideaj,Male,NULL,0,0,10O/Ma,1,11.67000008,0,4,Sadi,Mannan,10,No
+11098,Jannat,Dahbi,Female,NULL,0,0,10W/Ma,4,28.32999992,27,29,Youssef,Chabibi,10,No
+11100,Aidan,Abyan,Male,NULL,0,0,8I/Ma,2,41.70000076,20,31.10000038,Swapna,Agarwal,8,No
+11101,Asiya,Aden,Female,NULL,1,1,8W/Ma,8,55,84.40000153,46.70000076,Nicola,Atkins,8,No
+11102,Aro,Ahmad,Male,NULL,0,0,8W/Ma,8,56.70000076,24.39999962,48.90000153,Nicola,Atkins,8,No
+11105,Aaminah,Ahmed,Female,NULL,1,1,8E/Ma,7,63.29999924,35.59999847,64.40000153,Noah,Taylor,8,No
+11106,Mohamed,Al-Heti,Male,No Special Educational Need,1,1,8I/Ma,2,45,8.899999619,62.20000076,Swapna,Agarwal,8,No
+11107,Ruqaya,Al-Enizi,Female,NULL,1,1,8E/Ma,7,21.70000076,13.30000019,57.79999924,Noah,Taylor,8,No
+11109,Ali,Alawiya,Male,SEN Support,1,1,8R/Ma,10,0,0,0,Rosa,Domingo,8,Yes
+11111,Ibrahim,Alhassan,Male,NULL,0,0,8I/Ma,2,58.29999924,84.40000153,64.40000153,Swapna,Agarwal,8,No
+11112,Isha,Ananda,Female,SEN Support,0,0,8R/Ma,10,16.70000076,0,22.20000076,Rosa,Domingo,8,Yes
+11113,Victoria,Anazco,Female,NULL,0,0,8B/Ma,4,58.29999924,44.40000153,33.29999924,Youssef,Chabibi,8,No
+11115,Emma,Arias Irusta,Female,NULL,0,0,8I/Ma,2,70,40,82.19999695,Swapna,Agarwal,8,No
+11118,Nabila,Begum,Female,NULL,0,0,8I/Ma,2,73.30000305,11.10000038,68.90000153,Swapna,Agarwal,8,No
+11119,Eleonor,Berard,Female,NULL,0,0,8H/Ma,6,96.69999695,93.30000305,91.09999847,Fatimah,Shariff,8,No
+11123,Jaidonay,Boothe,Female,NULL,0,0,8H/Ma,6,35,15.60000038,11.10000038,Fatimah,Shariff,8,No
+11125,Hector,Both,Male,NULL,0,0,8H/Ma,6,53.29999924,44.40000153,51.09999847,Fatimah,Shariff,8,No
+11127,Ava,Chadwick,Female,NULL,0,0,8R/Ma,10,33.29999924,0,20,Rosa,Domingo,8,No
+11128,Carmen,Chan-Naylor,Female,NULL,0,0,8H/Ma,6,80,64.40000153,57.79999924,Fatimah,Shariff,8,No
+11129,Adam,Chedli,Male,SEN Support,0,0,8B/Ma,4,40,28.89999962,53.29999924,Youssef,Chabibi,8,Yes
+11131,Al-Amin,Chowdhury,Male,No Special Educational Need,0,0,8E/Ma,7,0,35.59999847,71.09999847,Noah,Taylor,8,No
+11132,Jibran,Chowdhury,Male,NULL,0,0,8B/Ma,4,90,84.40000153,77.80000305,Youssef,Chabibi,8,No
+11137,Daniel,Darwiche,Male,NULL,1,1,8W/Ma,8,45,6.699999809,28.89999962,Nicola,Atkins,8,No
+11140,Sophia,De Lima Micaelli,Female,NULL,0,0,8W/Ma,8,11.69999981,11.10000038,6.699999809,Nicola,Atkins,8,No
+11142,Logan,Dowden-Harding,Male,NULL,1,1,8I/Ma,2,43.29999924,57.79999924,37.79999924,Swapna,Agarwal,8,No
+11144,Mohamed,Eddaheri El Baggar,Male,NULL,0,0,8W/Ma,8,53.29999924,33.29999924,40,Nicola,Atkins,8,No
+11146,Fred,Elliott,Male,NULL,0,0,8E/Ma,7,88.30000305,80,80,Noah,Taylor,8,No
+11147,Ahmed,Elmoniri,Male,NULL,0,0,8R/Ma,10,48.29999924,0,51.09999847,Rosa,Domingo,8,No
+11150,Matthew,Farag,Male,SEN Support,1,1,8I/Ma,2,8.300000191,40,4.400000095,Swapna,Agarwal,8,Yes
+11151,Manal,Farah,Female,NULL,1,1,8B/Ma,4,91.69999695,35.59999847,75.59999847,Youssef,Chabibi,8,No
+11154,Justin,Ferati,Male,NULL,1,1,8R/Ma,10,55,0,53.29999924,Rosa,Domingo,8,No
+11155,Hiyab,Finazzi,Female,SEN Support,1,1,8B/Ma,4,55,40,44.40000153,Youssef,Chabibi,8,Yes
+11159,Anesa,Gjeta,Female,NULL,1,1,8R/Ma,10,73.30000305,0,66.69999695,Rosa,Domingo,8,No
+11161,Siyana,Goudarzpour,Female,NULL,0,0,8W/Ma,8,55,24.39999962,48.90000153,Nicola,Atkins,8,No
+11162,Tavonne,Gourde,Male,SEN Support,1,1,8I/Ma,2,26.70000076,33.29999924,8.899999619,Swapna,Agarwal,8,Yes
+11164,Zakhar,Gumennyy,Male,NULL,0,0,8H/Ma,6,96.69999695,84.40000153,97.80000305,Fatimah,Shariff,8,No
+11165,Zita,Hahn,Female,NULL,0,0,8H/Ma,6,60,53.29999924,48.90000153,Fatimah,Shariff,8,No
+11166,Amelia,Haouari,Female,NULL,1,1,8R/Ma,10,68.30000305,0,77.80000305,Rosa,Domingo,8,No
+11167,Maryam,Hassan,Female,NULL,1,1,8I/Ma,2,15,0,24.39999962,Swapna,Agarwal,8,No
+11169,Abigail,Houghton,Female,SEN Support,0,0,8H/Ma,6,NULL,0,0,Fatimah,Shariff,8,Yes
+11170,Yusef,Houssni,Male,NULL,0,0,8E/Ma,7,50,46.70000076,75.59999847,Noah,Taylor,8,No
+11171,Adam,Hussain,Male,SEN Support,1,1,8E/Ma,7,11.69999981,0,6.699999809,Noah,Taylor,8,Yes
+11172,Arshad,Hussain,Male,No Special Educational Need,0,0,8R/Ma,10,63.29999924,0,71.09999847,Rosa,Domingo,8,No
+11173,Kawthar,Husseiny,Female,SEN Support,1,1,8H/Ma,6,3.299999952,0,0,Fatimah,Shariff,8,Yes
+11174,Asila,Iljaz,Female,NULL,0,0,8W/Ma,8,73.30000305,55.59999847,75.59999847,Nicola,Atkins,8,No
+11177,Musa,Jameel,Male,No Special Educational Need,1,1,8B/Ma,4,38.29999924,22.20000076,44.40000153,Youssef,Chabibi,8,No
+11178,Zaynab,Jannah,Female,No Special Educational Need,1,1,8H/Ma,6,36.70000076,42.20000076,44.40000153,Fatimah,Shariff,8,No
+11179,Zakaria,Jaouad,Male,NULL,1,1,8E/Ma,7,53.29999924,26.70000076,60,Noah,Taylor,8,No
+11180,Yusuf,Jimale,Male,SEN Support,0,0,8W/Ma,8,48.29999924,0,17.79999924,Nicola,Atkins,8,Yes
+11182,Celine,Kabbout,Female,NULL,0,0,8I/Ma,2,55,20,40,Swapna,Agarwal,8,No
+11183,Nouraan,Kaled Rahmo,Female,NULL,0,0,8R/Ma,10,26.70000076,0,22.20000076,Rosa,Domingo,8,No
+11184,Youssef,Khalid,Male,No Special Educational Need,1,1,8I/Ma,2,55,51.09999847,31.10000038,Swapna,Agarwal,8,No
+11185,Sahar,Khan,Female,NULL,0,0,8E/Ma,7,40,28.89999962,44.40000153,Noah,Taylor,8,No
+11186,Manhaa,Khan,Female,NULL,0,0,8E/Ma,7,51.70000076,51.09999847,33.29999924,Noah,Taylor,8,No
+11187,Dennis,Khoanchezar,Male,NULL,1,1,8H/Ma,6,28.29999924,0,0,Fatimah,Shariff,8,No
+11188,Ahlam,Kossar,Female,NULL,1,1,8B/Ma,4,68.30000305,40,53.29999924,Youssef,Chabibi,8,No
+11189,Gabriella,Krause Motta,Female,NULL,0,0,8I/Ma,2,45,13.30000019,40,Swapna,Agarwal,8,No
+11191,Sofian,Lakehal,Male,NULL,0,0,8R/Ma,10,83.30000305,0,84.40000153,Rosa,Domingo,8,No
+11192,Isam,Latif,Male,NULL,0,0,8E/Ma,7,8.300000191,35.59999847,20,Noah,Taylor,8,No
+11194,Nahia,Laura Perez,Female,NULL,0,0,8W/Ma,8,85,44.40000153,71.09999847,Nicola,Atkins,8,No
+11196,Natan,Leghese,Male,NULL,1,1,8E/Ma,7,31.70000076,17.79999924,20,Noah,Taylor,8,No
+11198,Selim,Ibrahim-Libab,Male,No Special Educational Need,1,1,8B/Ma,4,53.29999924,31.10000038,26.70000076,Youssef,Chabibi,8,No
+11199,Jake,Lumenda,Male,NULL,0,0,8R/Ma,10,61.70000076,0,57.79999924,Rosa,Domingo,8,No
+11200,Malachi,Maha,Male,NULL,1,1,8W/Ma,8,6.699999809,37.79999924,15.60000038,Nicola,Atkins,8,No
+11202,Michael,Moloney,Male,SEN Support,1,1,8B/Ma,4,0,0,0,Youssef,Chabibi,8,Yes
+11203,Felix,Man,Male,SEN Support,0,0,8I/Ma,2,96.69999695,64.40000153,93.30000305,Swapna,Agarwal,8,Yes
+11204,Lina,Manamani,Female,NULL,0,0,8R/Ma,10,41.70000076,0,33.29999924,Rosa,Domingo,8,No
+11205,Zayneb,Mechakou,Female,SEN Support,1,1,8I/Ma,2,8.300000191,0,2.200000048,Swapna,Agarwal,8,Yes
+11206,Aliyah,Menacer,Female,NULL,1,1,8R/Ma,10,1.700000048,0,0,Rosa,Domingo,8,No
+11208,Badar,Mohamed,Male,SEN Support,1,1,8R/Ma,10,38.29999924,0,8.899999619,Rosa,Domingo,8,Yes
+11210,Sonia,Moldovan,Female,NULL,0,0,8E/Ma,7,96.69999695,93.30000305,73.30000305,Noah,Taylor,8,No
+11212,Maya,Naidoo,Female,NULL,0,0,8H/Ma,6,83.30000305,64.40000153,75.59999847,Fatimah,Shariff,8,No
+11213,Veer,Naik,Male,NULL,0,0,8H/Ma,6,58.29999924,57.79999924,68.90000153,Fatimah,Shariff,8,No
+11214,Alfie,Ng,Male,SEN Support,0,0,8H/Ma,6,40,42.20000076,64.40000153,Fatimah,Shariff,8,Yes
+11215,Landess,Nilsson Shafikova,Female,NULL,0,0,8H/Ma,6,58.29999924,42.20000076,35.59999847,Fatimah,Shariff,8,No
+11216,Samuel,Nnyombi,Male,NULL,0,0,8B/Ma,4,53.29999924,31.10000038,33.29999924,Youssef,Chabibi,8,No
+11218,Yaroslav,Novytskyi,Male,NULL,1,1,8R/Ma,10,91.69999695,0,86.69999695,Rosa,Domingo,8,No
+11219,Melanie,Okech,Female,NULL,0,0,8W/Ma,8,71.69999695,68.90000153,55.59999847,Nicola,Atkins,8,No
+11220,Zakariya,Omar,Male,NULL,0,0,8I/Ma,2,18.29999924,13.30000019,17.79999924,Swapna,Agarwal,8,No
+11221,Abdalla,Omar,Male,NULL,1,1,8H/Ma,6,53.29999924,73.30000305,68.90000153,Fatimah,Shariff,8,No
+11223,Drin,Pacolli,Male,NULL,0,0,8E/Ma,7,40,24.39999962,46.70000076,Noah,Taylor,8,No
+11224,Roxanne Mae,Padua,Female,NULL,0,0,8W/Ma,8,46.70000076,33.29999924,46.70000076,Nicola,Atkins,8,No
+11229,Riley,Pearce-Flynn,Male,SEN Support,0,0,8E/Ma,7,38.29999924,0,8.899999619,Noah,Taylor,8,Yes
+11230,Amar,Prestreshi,Male,NULL,1,1,8E/Ma,7,53.29999924,64.40000153,48.90000153,Noah,Taylor,8,No
+11233,Khadija,Rahman,Female,No Special Educational Need,1,1,8R/Ma,10,30,0,6.699999809,Rosa,Domingo,8,No
+11234,Ibrahim,Rahman,Male,NULL,0,0,8H/Ma,6,86.69999695,55.59999847,64.40000153,Fatimah,Shariff,8,No
+11235,Yasir,Rahman,Male,NULL,0,0,8W/Ma,8,15,22.20000076,0,Nicola,Atkins,8,No
+11237,Gabriel,Gomes Ramos,Male,NULL,0,0,8H/Ma,6,48.29999924,35.59999847,37.79999924,Fatimah,Shariff,8,No
+11238,Alma,Ratkoceri,Female,NULL,1,1,8R/Ma,10,41.70000076,0,33.29999924,Rosa,Domingo,8,No
+11241,Sofia,Ribeiro,Female,SEN Support,0,0,8R/Ma,10,36.70000076,0,37.79999924,Rosa,Domingo,8,Yes
+11242,Blanca,Robuste Perez,Female,NULL,0,0,8I/Ma,2,85,73.30000305,86.69999695,Swapna,Agarwal,8,No
+11244,Camari,Ryan,Male,NULL,0,0,8I/Ma,2,25,66.69999695,20,Swapna,Agarwal,8,No
+11245,Zahraa,Saedi,Female,No Special Educational Need,1,1,8W/Ma,8,36.70000076,24.39999962,31.10000038,Nicola,Atkins,8,No
+11246,Asiyah,Salik,Female,NULL,1,1,8B/Ma,4,40,33.29999924,4.400000095,Youssef,Chabibi,8,No
+11247,Pedro,Fernandes Santos,Male,SEN Support,0,0,8E/Ma,7,30,0,22.20000076,Noah,Taylor,8,Yes
+11248,Dimitar,Sarandev,Male,NULL,0,0,8W/Ma,8,33.29999924,11.10000038,44.40000153,Nicola,Atkins,8,No
+11249,Dina,Seghrouchni,Female,NULL,0,0,8E/Ma,7,50,73.30000305,75.59999847,Noah,Taylor,8,No
+11250,Aniya,Senghani,Female,SEN Support,0,0,8W/Ma,8,83.30000305,64.40000153,0,Nicola,Atkins,8,Yes
+11251,Jasmine,Sharif,Female,NULL,0,0,8B/Ma,4,3.299999952,0,0,Youssef,Chabibi,8,No
+11252,Leart,Sherifi,Male,SEN Support,1,1,8H/Ma,6,55,62.20000076,80,Fatimah,Shariff,8,Yes
+11254,Zion,Smyth,Male,SEN Support,1,1,8B/Ma,4,6.699999809,0,0,Youssef,Chabibi,8,Yes
+11255,Iman,Soliman,Female,NULL,1,1,8R/Ma,10,18.29999924,0,2.200000048,Rosa,Domingo,8,No
+11258,Ibrahim,Souleyman,Male,NULL,0,0,8B/Ma,4,40,15.60000038,33.29999924,Youssef,Chabibi,8,No
+11260,Ajvi,Stafa,Female,NULL,1,1,8I/Ma,2,90,95.59999847,80,Swapna,Agarwal,8,No
+11261,Edwin,Storey,Male,SEN Support,0,0,8B/Ma,4,30,11.10000038,26.70000076,Youssef,Chabibi,8,Yes
+11268,Arshad,Uddin,Male,NULL,1,1,8H/Ma,6,63.29999924,53.29999924,57.79999924,Fatimah,Shariff,8,No
+11270,Sarra,Ullah,Female,NULL,1,1,8I/Ma,2,71.69999695,64.40000153,75.59999847,Swapna,Agarwal,8,No
+11271,Zoya,Umer,Female,NULL,0,0,8H/Ma,6,46.70000076,11.10000038,20,Fatimah,Shariff,8,No
+11272,Ian,Vargas,Male,SEN Support,0,0,8W/Ma,8,61.70000076,64.40000153,75.59999847,Nicola,Atkins,8,Yes
+11273,Julia,Vazquez Corral,Female,NULL,0,0,8R/Ma,10,63.29999924,0,71.09999847,Rosa,Domingo,8,No
+11274,Victoria,Venegas Flores,Female,NULL,0,0,8H/Ma,6,78.30000305,55.59999847,0,Fatimah,Shariff,8,No
+11276,Aya,Waldron,Female,NULL,1,1,8H/Ma,6,28.29999924,40,22.20000076,Fatimah,Shariff,8,No
+11279,Ruby-Lucille,Wilson,Female,SEN Support,1,1,8I/Ma,2,41.70000076,33.29999924,42.20000076,Swapna,Agarwal,8,Yes
+11280,Lily,Wood,Female,NULL,0,0,8H/Ma,6,53.29999924,51.09999847,42.20000076,Fatimah,Shariff,8,No
+11281,Edom,Yarid,Female,NULL,0,0,8I/Ma,2,100,93.30000305,75.59999847,Swapna,Agarwal,8,No
+11282,Tala,Youssef,Female,No Special Educational Need,0,0,8E/Ma,7,28.29999924,44.40000153,33.29999924,Noah,Taylor,8,No
+11284,Zahraa,Zaman,Female,NULL,1,1,8R/Ma,10,36.70000076,0,77.80000305,Rosa,Domingo,8,No
+11287,Subhan,Aziz,Male,"Education, Health and Care Plan",0,0,8R/Ma,10,11.69999981,0,6.699999809,Rosa,Domingo,8,Yes
+11291,Ibtissam,Badaoui,Female,NULL,1,1,8B/Ma,4,40,20,15.60000038,Youssef,Chabibi,8,No
+11293,Maria,Ali,Female,SEN Support,0,0,8I/Ma,2,20,11.10000038,22.20000076,Swapna,Agarwal,8,Yes
+11297,Rayan,Hamdi,Male,SEN Support,1,1,8I/Ma,2,41.70000076,40,42.20000076,Swapna,Agarwal,8,Yes
+11298,Sultan,Saleh,Male,No Special Educational Need,1,1,8B/Ma,4,58.29999924,35.59999847,48.90000153,Youssef,Chabibi,8,No
+11299,Merinas,Mohamed,Female,NULL,1,1,8E/Ma,7,23.29999924,20,46.70000076,Noah,Taylor,8,No
+11301,Hassan,Hossain,Male,SEN Support,0,0,8E/Ma,7,80,84.40000153,82.19999695,Noah,Taylor,8,Yes
+11305,Omar,Mengal,Male,SEN Support,1,1,8H/Ma,6,6.699999809,0,6.699999809,Fatimah,Shariff,8,Yes
+11306,Wilsan,Daher,Male,No Special Educational Need,0,0,8H/Ma,6,31.70000076,33.29999924,33.29999924,Fatimah,Shariff,8,No
+11307,Riyaz,Hussain,Male,NULL,0,0,8H/Ma,6,61.70000076,57.79999924,0,Fatimah,Shariff,8,No
+11313,Nour,Biddouch Aghbalou,Female,No Special Educational Need,1,1,8I/Ma,2,50,24.39999962,64.40000153,Swapna,Agarwal,8,No
+11315,Basil,Ahmed,Male,SEN Support,0,0,8B/Ma,4,20,28.89999962,46.70000076,Youssef,Chabibi,8,Yes
+11316,Saki,Yokota,Female,NULL,0,0,8E/Ma,7,0,0,0,Noah,Taylor,8,No
+11317,Sabrina,Islam,Female,SEN Support,0,0,8B/Ma,4,15,8.899999619,26.70000076,Youssef,Chabibi,8,Yes
+11318,Micah,Dixon,Male,"Education, Health and Care Plan",0,0,8B/Ma,4,16.70000076,17.79999924,2.200000048,Youssef,Chabibi,8,Yes
+11320,Keyaan,Ali,Male,NULL,1,1,8W/Ma,8,41.70000076,17.79999924,0,Nicola,Atkins,8,No
+11323,Laysa,Duarte Venzel,Female,NULL,0,0,8E/Ma,7,70,80,60,Noah,Taylor,8,No
+11325,Daniel,Salgado,Male,NULL,0,0,8E/Ma,7,8.300000191,13.30000019,6.699999809,Noah,Taylor,8,No
+11330,Arthur,Correia Da Cruz,Male,NULL,0,0,8B/Ma,4,30,13.30000019,31.10000038,Youssef,Chabibi,8,No
+11333,Sara,Greif Sbai,Female,SEN Support,1,1,8W/Ma,8,10,26.70000076,37.79999924,Nicola,Atkins,8,Yes
+11335,Junior,Dalgan,Male,NULL,0,0,10R/Ma,9,30,45,19,Ruhina,Cockar,10,No
+11336,Oliver,Teixeira Biolchini Dos Santos,Male,SEN Support,0,0,10R/Ma,9,30,40,23,Ruhina,Cockar,10,Yes
+11337,Ali,Charaf,Male,"Education, Health and Care Plan",0,0,10W/Ma,4,8.329999924,25,55,Youssef,Chabibi,10,Yes
+11339,Amani,Al Shimmeri,Female,NULL,0,0,10B/Ma,5,5,16,8,Nadir,Jebari,10,No
+11340,Khalood,Al Shimmeri,Female,NULL,0,0,10O/Ma,1,18.32999992,35,3,Sadi,Mannan,10,No
+11343,Jenna,Alserhan,Female,NULL,0,0,9R/Ma,10,58.29999924,93,76.40000153,Rosa,Domingo,9,No
+11345,Haroon,Jameel,Male,No Special Educational Need,1,1,8W/Ma,8,13.30000019,24.39999962,15.60000038,Nicola,Atkins,8,No
+11346,Mohammad,Irdani,Male,NULL,0,0,9B/Ma,3,5,60,0,David,Madden,9,No
+11347,Narjes,Irdani,Female,NULL,0,0,10W/Ma,4,26.67000008,41,29,Youssef,Chabibi,10,No
+11390,Amar,Rezzoug,Male,SEN Support,1,1,8W/Ma,8,86.69999695,0,95.59999847,Nicola,Atkins,8,Yes
+11391,Khalid,Al Shimmeri,Male,NULL,0,0,8B/Ma,4,26.70000076,0,2.200000048,Youssef,Chabibi,8,No
+11401,Quiterie,Seaton,Female,SEN Support,0,0,8R/Ma,10,53.29999924,0,64.40000153,Rosa,Domingo,8,Yes
+11408,Mohammed,Ayazy,Male,"Education, Health and Care Plan",0,0,7H/Ma,8,27,20,36,Nicola,Atkins,7,Yes
+11409,Sajeedah,Guenifi,Female,NULL,0,0,9W/Ma,7,10,85,1.799999952,Noah,Taylor,9,No
+11413,Yahya,Maidugu,Male,NULL,0,0,8B/Ma,4,21.70000076,46.70000076,22.20000076,Youssef,Chabibi,8,No
+11415,Ana,Rocha,Female,NULL,0,0,10H/Ma,5,71.66999817,42,71,Nadir,Jebari,10,No
+11416,Adam,Rhliouch,Male,No Special Educational Need,1,1,10W/Ma,4,5,5,9,Youssef,Chabibi,10,No
+11417,Wenyi,Huang,Female,NULL,0,0,8E/Ma,7,51.70000076,80,82.19999695,Noah,Taylor,8,No
+11421,Amir,Rashid,Male,NULL,1,1,10H/Ma,5,0,NULL,6,Nadir,Jebari,10,No
+11423,Chloe Kaia,Keogh Garmendia,Female,NULL,0,0,8B/Ma,4,68.30000305,57.79999924,62.20000076,Youssef,Chabibi,8,No
+11424,Adelaide,Croceri,Female,NULL,0,0,10O/Ma,1,13.32999992,12,13,Sadi,Mannan,10,No
+11428,Ayoub,Ben Abdullah,Male,"Education, Health and Care Plan",1,1,7H/Ma,8,80,0,96,Nicola,Atkins,7,Yes
+11430,Israel,Ijanboh,Male,"Education, Health and Care Plan",0,0,7B/Ma,11,40,0,0,Paul,Mulvihill,7,Yes
+11431,Kani,Bazlehgo,NULL,NULL,NULL,NULL,8W/Ma,8,0,73.30000305,8.899999619,Nicola,Atkins,8,No
+11434,Aden,Abubakar,Female,SEN Support,0,0,7H/Ma,8,62,40,30,Nicola,Atkins,7,Yes
+11435,Lujayn,Afifi,Female,NULL,1,1,7H/Ma,8,48,28.32999992,36,Nicola,Atkins,7,No
+11436,Malak,Ahmad,Female,No Special Educational Need,0,0,7H/Ma,8,52,26.67000008,40,Nicola,Atkins,7,No
+11437,Talita,Ahmad,Female,NULL,0,0,7B/Ma,11,88,86.66999817,90,Paul,Mulvihill,7,No
+11438,Aayan,Ahmed,Male,No Special Educational Need,0,0,7B/Ma,11,100,91.66999817,100,Paul,Mulvihill,7,No
+11439,Ayman,Ahmed,Male,No Special Educational Need,0,0,7B/Ma,11,75,50,0,Paul,Mulvihill,7,No
+11441,Naya,Al-Hilali,Female,No Special Educational Need,0,0,7R/Ma,10,50,36.66999817,64,Rosa,Domingo,7,No
+11442,Omar,Al-Shemari,Male,SEN Support,1,1,7B/Ma,11,28,28.32999992,28,Paul,Mulvihill,7,Yes
+11443,Mohammed,Alhasani,Male,SEN Support,1,1,7H/Ma,8,62,43.33000183,48,Nicola,Atkins,7,Yes
+11446,Yasin,Elmi,Male,No Special Educational Need,0,0,7E/Ma,2,92,75,90,Swapna,Agarwal,7,No
+11447,Saffana,Altaai,Female,No Special Educational Need,1,1,7R/Ma,10,45,56.66999817,48,Rosa,Domingo,7,No
+11448,Qusai,Amer,Male,NULL,0,0,7H/Ma,8,23,13.32999992,48,Nicola,Atkins,7,No
+11449,Micah,Ansan-Nurse,Male,No Special Educational Need,1,1,7H/Ma,8,35,26.67000008,16,Nicola,Atkins,7,No
+11450,Mohamed,Azazy,Male,No Special Educational Need,0,0,7H/Ma,8,10,15,6,Nicola,Atkins,7,No
+11452,Aya,Bargach,Female,No Special Educational Need,0,0,7R/Ma,10,48,50,30,Rosa,Domingo,7,No
+11453,Manal,Zeklani Ben Allal,Female,"SEN Support, No Special Educational Need",0,0,7R/Ma,10,20,0,24,Rosa,Domingo,7,No
+11457,Elisa,Brika,Female,"SEN Support, Education, Health and Care Plan",1,1,7E/Ma,2,27,18.32999992,38,Swapna,Agarwal,7,Yes
+11458,Keyanna,Buckley-Thompson,Female,NULL,0,0,7R/Ma,10,60,48.33000183,46,Rosa,Domingo,7,No
+11459,Dylan,Vazquez,Male,SEN Support,0,0,7H/Ma,8,25,10,4,Nicola,Atkins,7,Yes
+11460,Yasmin,Campbell,Female,NULL,1,1,7H/Ma,8,65,65,90,Nicola,Atkins,7,No
+11461,Zaid,Chatt,Male,No Special Educational Need,0,0,7I/Ma,6,80,70,82,Fatimah,Shariff,7,No
+11463,Mariam,Ckareuli,Female,No Special Educational Need,1,1,7H/Ma,8,52,25,40,Nicola,Atkins,7,No
+11464,Amare,Clarke,Male,SEN Support,0,0,7B/Ma,11,82,75,78,Paul,Mulvihill,7,Yes
+11465,Lucas,Contrepois,Male,No Special Educational Need,0,0,7I/Ma,6,87,78.33000183,96,Fatimah,Shariff,7,No
+11467,Elaiza,Dalgan,Female,NULL,0,0,7R/Ma,10,67,70,74,Rosa,Domingo,7,No
+11468,Rayan,Darwiche,Male,NULL,1,1,7E/Ma,2,80,66.66999817,78,Swapna,Agarwal,7,No
+11469,CJ,Davis-Cawley,Male,SEN Support,1,1,7I/Ma,6,53,0,20,Fatimah,Shariff,7,Yes
+11470,Shyla,Deleon-Etienne,Female,SEN Support,0,0,7H/Ma,8,15,35,30,Nicola,Atkins,7,Yes
+11471,Ayla,Duarte Martins,Female,NULL,0,0,7R/Ma,10,20,0,0,Rosa,Domingo,7,No
+11472,Noar,Dullovi,Male,No Special Educational Need,0,0,7B/Ma,11,97,90,90,Paul,Mulvihill,7,No
+11477,Malak,El Bagoury,Female,No Special Educational Need,0,0,7H/Ma,8,52,46.66999817,84,Nicola,Atkins,7,No
+11478,Iman Nemari,Elgondi,Female,SEN Support,0,0,7E/Ma,2,68,61.66999817,40,Swapna,Agarwal,7,Yes
+11479,Saly,Emao Mahmoud Ahmed,Female,No Special Educational Need,0,0,7I/Ma,6,43,50,50,Fatimah,Shariff,7,No
+11482,Tala,Fakhreldine,Female,"SEN Support, No Special Educational Need",1,1,7R/Ma,10,58,63.33000183,0,Rosa,Domingo,7,No
+11483,Hammad,Faris,Male,No Special Educational Need,0,0,7E/Ma,2,60,51.66999817,72,Swapna,Agarwal,7,No
+11486,Marwen,Gasmi,Male,NULL,0,0,7H/Ma,8,23,18.32999992,30,Nicola,Atkins,7,No
+11489,Ramie,Hadra,Male,SEN Support,1,1,7R/Ma,10,75,60,0,Rosa,Domingo,7,Yes
+11490,Anhar,Hani,Female,No Special Educational Need,0,0,7E/Ma,2,40,18.32999992,46,Swapna,Agarwal,7,No
+11491,Ayaan,Haque,Male,No Special Educational Need,0,0,7B/Ma,11,83,0,60,Paul,Mulvihill,7,No
+11492,Zakariya,Hasan,Male,No Special Educational Need,0,0,7B/Ma,11,82,83.33000183,84,Paul,Mulvihill,7,No
+11493,Maryama,Hassan,Female,No Special Educational Need,1,1,7E/Ma,2,85,86.66999817,86,Swapna,Agarwal,7,No
+11494,Anas,Hassan,Male,SEN Support,1,1,7R/Ma,10,28,8.329999924,16,Rosa,Domingo,7,Yes
+11495,Jaxon,Hector,Male,"Education, Health and Care Plan",1,1,7B/Ma,11,40,48.33000183,38,Paul,Mulvihill,7,Yes
+11497,Reason Raheem,Herman,Male,NULL,0,0,7H/Ma,8,47,15,46,Nicola,Atkins,7,No
+11499,Luke,Hewer,Male,NULL,0,0,7B/Ma,11,95,85,84,Paul,Mulvihill,7,No
+11500,Agnes,Hillhouse,Female,NULL,0,0,7I/Ma,6,93,80,90,Fatimah,Shariff,7,No
+11501,Retaj,Houari,Female,No Special Educational Need,0,0,7E/Ma,2,58,61.66999817,74,Swapna,Agarwal,7,No
+11502,Samirah,Hussain,Female,NULL,0,0,7I/Ma,6,88,90,86,Fatimah,Shariff,7,No
+11503,Ali,Ibrahim,Male,NULL,1,1,7H/Ma,8,82,65,84,Nicola,Atkins,7,No
+11504,Anisa,Islam,Female,No Special Educational Need,0,0,7E/Ma,2,85,76.66999817,78,Swapna,Agarwal,7,No
+11506,Rayyan,Ismail,Male,No Special Educational Need,0,0,7I/Ma,6,73,55,0,Fatimah,Shariff,7,No
+11507,Ruba,Jacob,Female,Monitoring,0,0,7R/Ma,10,48,66.66999817,0,Rosa,Domingo,7,Yes
+11509,Iqlas,Jimale,Female,NULL,0,0,7I/Ma,6,58,21.67000008,58,Fatimah,Shariff,7,No
+11510,Kaldora,Julius,Female,"SEN Support, No Special Educational Need",0,0,7R/Ma,10,82,71.66999817,70,Rosa,Domingo,7,No
+11511,Amina,Kamara,Female,No Special Educational Need,1,1,7E/Ma,2,68,61.66999817,76,Swapna,Agarwal,7,No
+11512,Nneoma,Kene,Female,NULL,0,0,7I/Ma,6,60,66.66999817,62,Fatimah,Shariff,7,No
+11513,Ilia,Khachidze,Male,No Special Educational Need,1,1,7H/Ma,8,90,66.66999817,90,Nicola,Atkins,7,No
+11515,Uthman,Khan,Male,No Special Educational Need,0,0,7R/Ma,10,65,78.33000183,58,Rosa,Domingo,7,No
+11516,Aleena,Khan,Female,SEN Support,0,0,7H/Ma,8,78,80,88,Nicola,Atkins,7,Yes
+11519,Ilias,Ladri,Male,SEN Support,0,0,7E/Ma,2,57,53.33000183,58,Swapna,Agarwal,7,Yes
+11521,Cassius,Mascarenhas,Male,NULL,0,0,7E/Ma,2,70,71.66999817,90,Swapna,Agarwal,7,No
+11522,Aahil,Miah,Male,Monitoring,0,0,7H/Ma,8,43,30,40,Nicola,Atkins,7,Yes
+11523,Maya,Miah,Female,No Special Educational Need,0,0,7H/Ma,8,68,53.33000183,80,Nicola,Atkins,7,No
+11524,Fatima,Miezou,Female,No Special Educational Need,0,0,7I/Ma,6,68,36.66999817,46,Fatimah,Shariff,7,No
+11525,Bayu,Moecharam,Male,NULL,0,0,7R/Ma,10,75,78.33000183,70,Rosa,Domingo,7,No
+11529,Imran,Mohammad,Male,SEN Support,1,1,7B/Ma,11,77,0,0,Paul,Mulvihill,7,Yes
+11531,Sarah,Morsli,Female,SEN Support,1,1,7E/Ma,2,80,70,74,Swapna,Agarwal,7,Yes
+11532,Fatima,Mualim,Female,No Special Educational Need,0,0,7I/Ma,6,87,75,98,Fatimah,Shariff,7,No
+11533,Ayoub,Murad,Male,SEN Support,0,0,7R/Ma,10,35,13.32999992,22,Rosa,Domingo,7,Yes
+11534,Karam,Muradi,Male,No Special Educational Need,1,1,7E/Ma,2,70,50,72,Swapna,Agarwal,7,No
+11536,Mia,Nowak Seoane,Female,No Special Educational Need,0,0,7B/Ma,11,72,61.66999817,84,Paul,Mulvihill,7,No
+11539,Samia,Osman,Female,NULL,0,0,7E/Ma,2,53,65,80,Swapna,Agarwal,7,No
+11540,Yusuf Kaan,Ozturk,Male,No Special Educational Need,0,0,7I/Ma,6,58,45,70,Fatimah,Shariff,7,No
+11541,Levy,Pedra,Male,No Special Educational Need,0,0,7I/Ma,6,80,71.66999817,76,Fatimah,Shariff,7,No
+11544,Imran,Rahman,Male,SEN Support,0,0,7B/Ma,11,100,98.33000183,94,Paul,Mulvihill,7,Yes
+11545,Ayah,Rahman,Female,NULL,1,1,7E/Ma,2,85,90,84,Swapna,Agarwal,7,No
+11546,Amr,Rexhepi,Male,No Special Educational Need,0,0,7B/Ma,11,38,15,14,Paul,Mulvihill,7,No
+11547,Anaia,Reyes-Bedeau,Female,SEN Support,0,0,7I/Ma,6,45,0,0,Fatimah,Shariff,7,Yes
+11550,Namirah,Saleem,Female,No Special Educational Need,0,0,7I/Ma,6,62,66.66999817,66,Fatimah,Shariff,7,No
+11551,Lorena,Salji,Female,No Special Educational Need,1,1,7B/Ma,11,73,80,72,Paul,Mulvihill,7,No
+11552,Hanah,Sangki,Female,No Special Educational Need,0,0,7R/Ma,10,48,38.33000183,50,Rosa,Domingo,7,No
+11553,Daniel,Sanna Lukas,Male,No Special Educational Need,0,0,7E/Ma,2,87,80,82,Swapna,Agarwal,7,No
+11555,Maya,Sharary,Female,NULL,1,1,7B/Ma,11,72,0,74,Paul,Mulvihill,7,No
+11557,Rona,Sheikh,Female,No Special Educational Need,1,1,7I/Ma,6,85,70,82,Fatimah,Shariff,7,No
+11559,Ariana,Sikandarova,Female,No Special Educational Need,0,0,7R/Ma,10,62,55,0,Rosa,Domingo,7,No
+11560,Luke,Slade,Male,NULL,0,0,7I/Ma,6,98,91.66999817,94,Fatimah,Shariff,7,No
+11562,Cole,Stockwell,Male,NULL,0,0,7R/Ma,10,98,85,0,Rosa,Domingo,7,No
+11563,Layan,Surchi,Female,SEN Support,0,0,7H/Ma,8,47,51.66999817,74,Nicola,Atkins,7,Yes
+11564,Ali,Hisham Talib,Male,SEN Support,1,1,7I/Ma,6,43,21.67000008,34,Fatimah,Shariff,7,Yes
+11568,Mikey,Tounkara,Male,Monitoring,0,0,7B/Ma,11,87,58.33000183,80,Paul,Mulvihill,7,Yes
+11569,Samuel,Ugo,Male,SEN Support,0,0,7E/Ma,2,65,63.33000183,64,Swapna,Agarwal,7,Yes
+11570,Talha,Usman,Male,SEN Support,1,1,7E/Ma,2,NULL,0,0,Swapna,Agarwal,7,Yes
+11572,Davi,Vilarim,Male,No Special Educational Need,0,0,7B/Ma,11,43,56.66999817,50,Paul,Mulvihill,7,No
+11573,Nadia,Zabieglinska,Female,No Special Educational Need,0,0,7B/Ma,11,82,81.66999817,82,Paul,Mulvihill,7,No
+11574,Erisa,Zeneli,Female,No Special Educational Need,1,1,7B/Ma,11,75,56.66999817,70,Paul,Mulvihill,7,No
+11575,Reem,Zouaoui,Female,No Special Educational Need,0,0,7E/Ma,2,60,70,82,Swapna,Agarwal,7,No
+11576,Ikeoluwa,Lawal,Male,"Education, Health and Care Plan",0,0,7R/Ma,10,15,3.329999924,0,Rosa,Domingo,7,Yes
+11579,Armani,Antwi,Female,NULL,0,0,7R/Ma,10,35,0,0,Rosa,Domingo,7,No
+11604,Omaraan,Al Sharify,Male,"Education, Health and Care Plan",1,1,7H/Ma,8,22,10,0,Nicola,Atkins,7,Yes
+11605,Sara,Hosseini,Female,No Special Educational Need,1,1,7H/Ma,8,87,76.66999817,92,Nicola,Atkins,7,No
+11606,Rayan,Saadi,Male,SEN Support,1,1,7E/Ma,2,43,50,50,Swapna,Agarwal,7,Yes
+11607,Haron,Jeaidi,Male,"SEN Support, Monitoring",1,1,7B/Ma,11,73,71.66999817,68,Paul,Mulvihill,7,Yes
+11608,Ahmad Adib,bin Royzime,Male,NULL,0,0,9E/Ma,8,31.70000076,22,32.70000076,Nicola,Atkins,9,No
+11610,Kenji,Ramos,Male,No Special Educational Need,1,1,7I/Ma,6,65,56.66999817,48,Fatimah,Shariff,7,No
+11611,Kseniia,Legezo,Female,No Special Educational Need,0,0,7I/Ma,6,85,65,86,Fatimah,Shariff,7,No
+11612,Ammar,Sufy Faizal,Male,NULL,0,0,10R/Ma,9,56.66999817,74,68,Ruhina,Cockar,10,No
+11620,Harun,Hashi,Male,No Special Educational Need,1,1,7I/Ma,6,68,78.33000183,0,Fatimah,Shariff,7,No
+11622,Summerwillow,Ujah,Female,No Special Educational Need,0,0,7I/Ma,6,57,31.67000008,44,Fatimah,Shariff,7,No
+11623,Mayar,Alrashidi,Female,No Special Educational Need,0,0,7H/Ma,8,45,28.32999992,56,Nicola,Atkins,7,No
+11624,Davi Lucca,Carrazedo,Male,No Special Educational Need,0,0,7H/Ma,8,65,50,76,Nicola,Atkins,7,No
+11625,Razia,Giraldo Khan,Female,NULL,1,1,7B/Ma,11,87,73.33000183,94,Paul,Mulvihill,7,No
+11627,Rifah,Rehman,Female,No Special Educational Need,0,0,7R/Ma,10,70,80,80,Rosa,Domingo,7,No
+11629,Zainab,Khan,Female,No Special Educational Need,0,0,10H/Ma,5,65,76,54,Nadir,Jebari,10,No
+11630,Benyamin,Khaki,Male,SEN Support,0,0,9R/Ma,10,0,0,0,Rosa,Domingo,9,Yes
+11632,Kauan,Gonçalves Lopes,Male,NULL,0,0,10O/Ma,1,0,3,6,Sadi,Mannan,10,No
+11637,Ashlyma,Sangki,Female,SEN Support,0,0,9I/Ma,4,3.299999952,9,3.599999905,Youssef,Chabibi,9,Yes
+11639,Jon-Jaye,Nicholson Jr,Male,SEN Support,0,0,7I/Ma,6,92,88.33000183,96,Fatimah,Shariff,7,Yes
+11640,Arkan,Merza,Male,No Special Educational Need,0,0,7I/Ma,6,77,56.66999817,0,Fatimah,Shariff,7,No
+11642,Asma,Aboukhadra,Female,SEN Support,0,0,7B/Ma,11,80,83.33000183,0,Paul,Mulvihill,7,Yes
+11644,Zahraa,Ward,Female,"Education, Health and Care Plan",0,0,7R/Ma,10,20,0,38,Rosa,Domingo,7,Yes
+11645,Rabenitel,Wabelo,Male,"SEN Support, No Special Educational Need",1,1,7E/Ma,2,30,26.67000008,42,Swapna,Agarwal,7,No
+11648,Arthur,Ferreira,Male,No Special Educational Need,0,0,7I/Ma,6,0,30,20,Fatimah,Shariff,7,No
+11650,Sajad,Alshammari,Male,NULL,0,0,8R/Ma,10,10,0,0,Rosa,Domingo,8,No
+11651,Abdullah,Alshammari,Male,NULL,0,0,9W/Ma,7,0,53,0,Noah,Taylor,9,No
+11654,Jiajun,Tai,Male,NULL,0,0,7B/Ma,11,65,38.33000183,38,Paul,Mulvihill,7,No
+11657,Sultan,Merza,Male,NULL,0,0,8B/Ma,4,16.70000076,0,0,Youssef,Chabibi,8,No
+11658,Isaiah Picos,Yuson,Male,NULL,0,0,10H/Ma,5,38.33000183,47,49,Nadir,Jebari,10,No
+11660,Amin,Royzime,Male,NULL,0,0,7E/Ma,2,92,80,84,Swapna,Agarwal,7,No
+11661,Ayesha,Siddique,Female,NULL,0,0,7R/Ma,10,62,0,66,Rosa,Domingo,7,No
+11662,Ahmad Wa'Iz Syafi'ie,Md Khairul Hazirin,Male,NULL,0,0,7H/Ma,8,73,65,88,Nicola,Atkins,7,No
+11663,Hana,Faour,Female,NULL,0,0,7E/Ma,2,70,71.66999817,72,Swapna,Agarwal,7,No
+11664,Salma,El Briri,Female,NULL,0,0,7E/Ma,2,30,21.67000008,60,Swapna,Agarwal,7,No
+11665,Leonardo,Moisés Da Cruz,Male,NULL,0,0,7E/Ma,2,60,58.33000183,56,Swapna,Agarwal,7,No
+11668,Mariya,Islam,Female,NULL,0,0,7I/Ma,6,48,51.66999817,58,Fatimah,Shariff,7,No
+11669,Pedro,Silva Dos Santos,Male,NULL,0,0,7R/Ma,10,8,6.670000076,30,Rosa,Domingo,7,No
+11670,Adam,Yusuf,Male,NULL,0,0,7R/Ma,10,92,86.66999817,86,Rosa,Domingo,7,No
+11672,Lucas,Salem,Male,NULL,0,0,8I/Ma,2,33.29999924,28.89999962,0,Swapna,Agarwal,8,No
+11692,Amin,Hassan,Male,NULL,0,0,7R/Ma,10,60,61.66999817,58,Rosa,Domingo,7,No
+11700,Layan,Khan Najim,Female,NULL,0,0,8E/Ma,7,23.29999924,22.20000076,31.10000038,Noah,Taylor,8,No
+11701,Zaydaan Khan,Najim,Male,NULL,0,0,7B/Ma,11,50,43.33000183,24,Paul,Mulvihill,7,No
+11702,Saif,Md Khairul Hazirin,Male,NULL,0,0,9H/Ma,7,28.29999924,22,61.79999924,Noah,Taylor,9,No
+11703,Eliana,Yihayes Tilahun,Female,NULL,0,0,9B/Ma,3,63.29999924,38,25.5,David,Madden,9,No
+11704,Sophia,Nogueira Ferreira,Female,NULL,0,0,9R/Ma,10,45,NULL,58.20000076,Rosa,Domingo,9,No
+11705,Anmar,Murad,NULL,NULL,NULL,NULL,9W/Ma,7,11.69999981,18,NULL,Noah,Taylor,9,No
+11706,Yousef,Marsaoui,NULL,NULL,NULL,NULL,10A/Ma,2,0,64,5,Swapna,Agarwal,10,No
+11707,Irina,Buzan,NULL,NULL,NULL,NULL,9O/Ma,11,NULL,25,12.69999981,Paul,Mulvihill,9,No
+11708,Sharif,Abukalam,NULL,NULL,NULL,NULL,8E/Ma,7,0,0,0,Noah,Taylor,8,No
+11709,Chloe,Belo-Brichard,NULL,NULL,NULL,NULL,8W/Ma,8,0,4.400000095,0,Nicola,Atkins,8,No
+11710,Malak,Djennadi,NULL,NULL,NULL,NULL,8R/Ma,10,0,88.90000153,80,Rosa,Domingo,8,No
+11711,Aarezu,Husaini,NULL,NULL,NULL,NULL,9B/Ma,3,NULL,33,74.5,David,Madden,9,No
+11712,Bissan,Mousa,Female,NULL,NULL,NULL,8H/Ma,6,0,4.400000095,31.10000038,Fatimah,Shariff,8,No
+11714,Robbie,Dolores,NULL,NULL,NULL,NULL,8W/Ma,8,0,0,80,Nicola,Atkins,8,No
+11716,Zaynudin,Mohamed,NULL,NULL,NULL,NULL,8B/Ma,4,0,22.20000076,48.90000153,Youssef,Chabibi,8,No
+11717,Yousef,Rahmani,NULL,NULL,NULL,NULL,9W/Ma,7,NULL,NULL,NULL,Noah,Taylor,9,No
+11718,Miah,Mark,Female,NULL,NULL,NULL,8H/Ma,6,0,0,8.899999619,Fatimah,Shariff,8,No
+11719,Muaadh,Fattah,Male,NULL,NULL,NULL,8B/Ma,4,0,44.40000153,95.59999847,Youssef,Chabibi,8,No
+11722,Fariha,Rob,Female,NULL,NULL,NULL,7I/Ma,6,NULL,0,24,Fatimah,Shariff,7,No
+11728,Rayyan,Dzul,Male,NULL,NULL,NULL,10R/Ma,9,NULL,NULL,21,Ruhina,Cockar,10,No
